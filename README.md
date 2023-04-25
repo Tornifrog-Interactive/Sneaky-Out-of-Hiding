@@ -11,4 +11,7 @@
 המשחק מתאים לפלטפורמות: מחשב רגיל.
   
 [רכיבים רשמיים](formal-elements.md)
+
+<img width="1102" alt="image" src="https://user-images.githubusercontent.com/18744772/234267745-553be422-57c2-49c1-898c-102c99dab128.png">
+
 </div>
