@@ -12,6 +12,7 @@
   
 [רכיבים רשמיים](formal-elements.md)
 
+ [קישור למשחק (החלק המרכזי בלבד)](https://tornifrog.itch.io/sneaky-out-of-hiding)
 <img width="1102" alt="image" src="https://user-images.githubusercontent.com/18744772/234267745-553be422-57c2-49c1-898c-102c99dab128.png">
 
 </div>
