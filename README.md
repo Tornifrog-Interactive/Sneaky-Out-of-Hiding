@@ -24,6 +24,10 @@
   
 
  [קישור למשחק (החלק המרכזי בלבד)](https://tornifrog.itch.io/sneaky-out-of-hiding)
-<img width="1102" alt="image" src="https://user-images.githubusercontent.com/18744772/234267745-553be422-57c2-49c1-898c-102c99dab128.png">
+  ![image](https://github.com/Tornifrog-Interactive/Sneaky-Out-of-Hiding/assets/74298243/7d84cb0a-7aa4-4e8f-b38d-14f41fd551db)
+
+  <img width="1102" alt="image" src="https://user-images.githubusercontent.com/18744772/234267745-553be422-57c2-49c1-898c-102c99dab128.png">
+  
+
 
 </div>
